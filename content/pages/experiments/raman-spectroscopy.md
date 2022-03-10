@@ -21,7 +21,7 @@ Raman spectrum experiment equipment.
 References
 ----------
 
-Greytak, T. "[Indistinguishable Particle Effects in Rotational Raman Scattering (PDF)](/courses/8-044-statistical-physics-i-spring-2013/content/resources/mit8_044s13_notes-raman)." MIT course _[8.044 Statistical Physics I](/courses/8-044-statistical-physics-i-spring-2013)_ on MIT OpenCourseWare.
+Greytak, T. "[Indistinguishable Particle Effects in Rotational Raman Scattering (PDF)](/courses/8-044-statistical-physics-i-spring-2013/resources/mit8_044s13_notes-raman)." MIT course _[8.044 Statistical Physics I](/courses/8-044-statistical-physics-i-spring-2013)_ on MIT OpenCourseWare.
 
 Zhou, H. and F. Machado, "{{% resource_link b551f9e3-b179-d310-5578-f89b51e74354 "Raman Spectroscopy on Diatomic Molecules (PDF)" %}}." Junior Lab Exploratory Project Proposal 2015.
 
