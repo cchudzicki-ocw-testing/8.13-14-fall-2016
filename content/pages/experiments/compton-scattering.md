@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Compton Scattering
 uid: 9fc6c7e8-5f55-51e1-f3d7-2213d8befe8e
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 4a33271f-ced6-f939-5454-56c174da7b19 "Experiment equipment on the table and shelf." >}}
+{{< resource "4a33271f-ced6-f939-5454-56c174da7b19" >}}
 
 Compton scattering experiment equipment.
 

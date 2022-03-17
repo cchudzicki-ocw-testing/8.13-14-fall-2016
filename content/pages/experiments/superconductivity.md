@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Superconductivity
 uid: 88cf3df1-af6e-bbee-2d0c-2dbad78e0b62
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 29814159-d122-ddbb-bf11-baca1a847123 "Experiment equipment on the table and shelf." >}}
+{{< resource "29814159-d122-ddbb-bf11-baca1a847123" >}}
 
 Superconductivity experiment equipment.
 

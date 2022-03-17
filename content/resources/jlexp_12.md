@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: JLExp_12.jpg
 uid: 1181e0e0-68a9-35a6-0661-92580c02dbc6
+video_metadata:
+  youtube_id: null
 ---

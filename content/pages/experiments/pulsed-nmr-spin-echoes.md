@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: 'Pulsed Nuclear Magnetic Resonance: Spin Echoes'
 uid: cc00ee06-833e-3831-7fae-8048ce1568e7
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 7bf23510-1e64-d600-af46-9bf10ab571dc "Experiment equipment on the table and shelf." >}}
+{{< resource "7bf23510-1e64-d600-af46-9bf10ab571dc" >}}
 
 Spin echoes experiment equipment.
 

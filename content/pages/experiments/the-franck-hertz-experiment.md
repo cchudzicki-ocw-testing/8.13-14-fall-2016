@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: The Franck-Hertz Experiment
 uid: 4adf3b76-1be8-0bfe-61c0-e48e92d36eb3
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 1ae21d54-f3a9-a6cd-6619-a3f0d109b963 "Experiment equipment on the table and shelf." >}}
+{{< resource "1ae21d54-f3a9-a6cd-6619-a3f0d109b963" >}}
 
 The Franck-Hertz experiment equipment.
 

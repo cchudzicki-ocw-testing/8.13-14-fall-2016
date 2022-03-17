@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Quantum Information Processing with NMR
 uid: 4ab3ef87-903c-8a86-69f4-79e16a8a8e13
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 061a3c65-e1aa-a715-febf-f0552e2da121 "A computer monitor on the table and a big cylinder shape equipment on the floor." >}}
+{{< resource "061a3c65-e1aa-a715-febf-f0552e2da121" >}}
 
 Quantum information processing experiment equipment.
 

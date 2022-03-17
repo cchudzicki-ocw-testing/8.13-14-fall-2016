@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Photoelectric Effect
 uid: 012572fc-f382-c70b-fb3f-018c24c0232b
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 6b62510a-6c60-f3ff-0df1-a7beaaebec93 "Photoelectric effect measuring instruments on a table." >}}
+{{< resource "6b62510a-6c60-f3ff-0df1-a7beaaebec93" >}}
 
 Photoelectric effect experiment equipment. (Image courtesy of MIT Junior Lab staff.)
 

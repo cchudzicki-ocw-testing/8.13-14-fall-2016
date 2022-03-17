@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: "M\xF6ssbauer Spectroscopy"
 uid: f93c78b6-ced8-d63a-326f-cce14d6b843d
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource fdfa9474-dbc3-0744-8a3e-298b47799606 "Experiment equipment on the table and shelf." >}}
+{{< resource "fdfa9474-dbc3-0744-8a3e-298b47799606" >}}
 
 Mössbauer spectroscopy experiment equipment.
 

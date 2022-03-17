@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: The Speed and Mean Life of Cosmic-Ray Muons
 uid: 33e90d1d-1125-2307-13a9-67e1abd752dd
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 48474fa6-3795-fe1b-ddbe-5e58a2f05be5 "Experiment equipment on the table and shelf." >}}
+{{< resource "48474fa6-3795-fe1b-ddbe-5e58a2f05be5" >}}
 
 Relativistic kinematics experiment equipment.
 

@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Optical Pumping of Rubidium Vapor
 uid: 221808c6-1c60-8ff6-d63c-6012f46f649b
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource 9be5fe4b-3719-8e2a-7ba7-72424a571a93 "Experiment equipment on the table and shelf." >}}
+{{< resource "9be5fe4b-3719-8e2a-7ba7-72424a571a93" >}}
 
 Optical Pumping experiment equipment.
 

@@ -7,12 +7,14 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Johnson Noise and Shot Noise
 uid: b579e8df-ec61-2cb7-e6a4-dae345aa3b4c
+video_metadata:
+  youtube_id: null
 ---
 
 Description
 -----------
 
-{{< resource d06789ac-35c9-dc30-7824-e01619ec32c6 "Experiment equipment on the table and shelf." >}}
+{{< resource "d06789ac-35c9-dc30-7824-e01619ec32c6" >}}
 
 Johnson noise and shot noise experiment equipment.
 

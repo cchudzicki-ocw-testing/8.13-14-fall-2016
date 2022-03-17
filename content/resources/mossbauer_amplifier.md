@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: "M\xF6ssbauer Spectroscopy Schematic"
 uid: 74ebd694-6959-9188-9c03-39f1f326e1cb
+video_metadata:
+  youtube_id: null
 ---
