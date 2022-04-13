@@ -1,11 +1,13 @@
 ---
 content_type: page
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Laboratory Safety and Regulations in Junior Lab
 uid: 29d99fa0-479e-dbce-b118-6e508eb8b5a3
+video_metadata:
+  youtube_id: null
 ---
-
 *   [Introduction](#introduction)
 *   [Chemical Hygiene and Environmental Safety](#chemical)
 *   [Electrical Safety](#electrical)
@@ -250,7 +252,7 @@ As discussed in your training, there are a few simple precautions to be taken fo
 *   Be aware of the sources being used in neighboring experiments. Be aware of neighboring experimenters when using sources.
 *   Remember ALARA — _As Low As Reasonably Achievable_!
 
-Ionizing radiation damages tissue; any exposure should therefore be minimized. The unit of radiation exposure is the rem (roentgen equivalent man). For an average individual, the background dosage from cosmic rays and other environmental sources is about 360 mrem/year, which works out to 4.2x10{{< sup "\\-2" >}} mrem/hour. The recommended limit to controllable exposure for a member of the general public is 100 mrem/year, averaged over any consecutive five years. If you follow the Junior Lab guidelines, your exposure will be only a fraction of the dose you receive from the natural background. A survey meter is available for you to check radiation levels yourself.
+Ionizing radiation damages tissue; any exposure should therefore be minimized. The unit of radiation exposure is the rem (roentgen equivalent man). For an average individual, the background dosage from cosmic rays and other environmental sources is about 360 mrem/year, which works out to 4.2x10{{< sup "\-2" >}} mrem/hour. The recommended limit to controllable exposure for a member of the general public is 100 mrem/year, averaged over any consecutive five years. If you follow the Junior Lab guidelines, your exposure will be only a fraction of the dose you receive from the natural background. A survey meter is available for you to check radiation levels yourself.
 
 Radioactive sources emit three types of radiation: high energy helium nuclei (alpha rays), electrons (beta rays), or photons (gamma rays). Most of the sources in Junior Lab emit only gamma radiation. Of the sources which do emit alpha or beta particles, most are enclosed in plastic or metals, which prevent particulate radiation from escaping. The exceptions are the {{< sup "90" >}}Sr source in the ‘Relativistic Dynamics’ experiment and the {{< sup "241" >}}Am source in the ‘Rutherford Scattering’ experiment; both sources are in an enclosed apparatus. These sources should never be handled. Handling of open alpha- or beta-emitters can result in contamination or dangerous dosages to the skin.
 
@@ -262,7 +264,7 @@ Radiation is quantified is several different ways:
 
 When you use the survey meter in the lab, the readings are in rads, and you must consider the type of particle when you work out the equivalent dose.
 
-For gamma rays with energy greater than 1 MeV, a useful approximation is that the equivalent dose due to a source with an activity of _C_ microcuries is 5.2x10{{< sup "\\-4" >}}_CE{{< sub "γ" >}}R_{{< sup "\\-2" >}} mrem/hour, where _R_ is the distance from the source in meters and _E{{< sub "γ" >}}_ is the energy of the gamma ray in MeV. For gamma rays with energy less than 1 MeV, this formula is still approximately true for a full-body dose. However, low-energy gamma rays deposit their energy in a smaller mass of tissue than high-energy gamma rays and can cause high local doses. For example, the local dose to the hands from handling a 10 keV source can be up to 25 times the value given by the above formula; hands, however, have a higher tolerance to radiation than inner organs or eyes.
+For gamma rays with energy greater than 1 MeV, a useful approximation is that the equivalent dose due to a source with an activity of _C_ microcuries is 5.2x10{{< sup "\-4" >}}_CE{{< sub "γ" >}}R_{{< sup "\-2" >}} mrem/hour, where _R_ is the distance from the source in meters and _E{{< sub "γ" >}}_ is the energy of the gamma ray in MeV. For gamma rays with energy less than 1 MeV, this formula is still approximately true for a full-body dose. However, low-energy gamma rays deposit their energy in a smaller mass of tissue than high-energy gamma rays and can cause high local doses. For example, the local dose to the hands from handling a 10 keV source can be up to 25 times the value given by the above formula; hands, however, have a higher tolerance to radiation than inner organs or eyes.
 
 The protective value of shielding varies drastically with the energy of the photons. The intensity of a “soft” x-ray beam of less than 1 keV can be reduced by many orders of magnitude with a millimeter of aluminum while 1.2 MeV gamma rays from {{< sup "60" >}}Co are attenuated by only a factor of two by a lead sheet 0.5 inch thick. The best way to keep your dosage down is to put distance between you and the source. If you stay a meter away from most sources in Junior Lab, you will be receiving, even without any lead shielding, a dose which is much less than your allowable background dose. If, however, you sit reading the write-up with a box of sources a few inches away, you may momentarily be receiving ten to a hundred times the background level.
 
@@ -282,7 +284,7 @@ Laser Safety
 
 A laser beam may not seem very bright, but if it enters your eye it will be focused by the lens of your eye to a pinpoint spot on the retina where the intensity is sufficient to destroy retinal cells. It is wise to terminate a laser beam with a diffuse absorber so that the beam does not shine around the room. Never examine the performance of an optical system with a laser by viewing the beam directly with your eye or reflector.
 
-Students who perform the ‘Doppler-Free Saturated Absorption Spectroscopy’ or ‘Raman Spectroscopy’ experiments in 8.14 require additional laser safety training from MIT EHS, which must be completed prior to performing the experiment: EHS Course 371c (Laser Safety), about 1.5 hours in length, offered by EHS every two weeks. The ‘Doppler-Free’ experiment utilizes a near-IR laser operating at 40 mW of output power. As such, it is classified as a Class 3b laser. The ‘Raman Spectroscopy’ experiment utilizes a 532 nm (green) laser operating at 2 W, placing it in the highest laser safety category, Class 4. Class 3b and Class 4 lasers require special safety training to operate. All students should download the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[MIT Laser Safety Manual (PDF)](https://ehs.mit.edu/wp-content/uploads/Laser_Safety_Guide.pdf) and read, at a minimum, Section Two.XVI.D dealing with Class 3b laser controls.
+Students who perform the ‘Doppler-Free Saturated Absorption Spectroscopy’ or ‘Raman Spectroscopy’ experiments in 8.14 require additional laser safety training from MIT EHS, which must be completed prior to performing the experiment: EHS Course 371c (Laser Safety), about 1.5 hours in length, offered by EHS every two weeks. The ‘Doppler-Free’ experiment utilizes a near-IR laser operating at 40 mW of output power. As such, it is classified as a Class 3b laser. The ‘Raman Spectroscopy’ experiment utilizes a 532 nm (green) laser operating at 2 W, placing it in the highest laser safety category, Class 4. Class 3b and Class 4 lasers require special safety training to operate. All students should download the [MIT Laser Safety Manual (PDF)](https://ehs.mit.edu/wp-content/uploads/Laser_Safety_Guide.pdf) and read, at a minimum, Section Two.XVI.D dealing with Class 3b laser controls.
 
 {{< anchor "biological" >}}{{< /anchor >}}
 
