@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The maximum kinetic energy of electrons ejected from a metal surface
+  by monochromatic light, is measured for several wavelengths. The value of Planck's
+  constant is derived by an analysis of the data in the light of Einstein theory of
+  the photoelectric effect.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments

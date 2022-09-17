@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "The M\xF6ssbauer effect and some of its applications in ultra-high resolution\
+  \ gamma-ray spectroscopy are explored. The Zeeman splittings, quadrupole splittings,\
+  \ and chemical shifts of the 14 keV M\xF6ssbauer gamma-ray line emitted in the recoilless\
+  \ decay of the first excited state of the 57Fe nucleus are measured in iron and\
+  \ in various iron compounds and alloys."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -55,4 +60,4 @@ King, J., ed. _Mössbauer Effect: Selected Reprints_. New York: American Instit
 Selected Resource
 -----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 74ebd694-6959-9188-9c03-39f1f326e1cb "Mössbauer Spectroscopy Schematic (PDF)" %}}
+{{% resource_link 74ebd694-6959-9188-9c03-39f1f326e1cb "Mössbauer Spectroscopy Schematic (PDF)" %}}

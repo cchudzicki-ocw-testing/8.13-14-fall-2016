@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section talks about the scattering of high-energy photons by electrons.
+  High-energy (662 keV) photons in a collimated beam from a radioactive 137 Cs source
+  are scattered from electrons in a target which is itself a scintillation counter
+  which detects the recoil electron.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments

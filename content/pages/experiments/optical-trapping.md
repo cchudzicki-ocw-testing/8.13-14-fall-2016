@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: In this section, you will measure the Brownian motion of a silica microsphere
+  in aqueous solution, both testing the theory of statistical mechanics and calibrating
+  the ``spring constant" of the trap. Then, using the calibrated trap, you will measure
+  forces in biological systems, such as the actin-myosin molecular motors of vesicle
+  transport in onion cells, the E. coli flagellar motor, or the restoring force of
+  a stretched DNA molecule.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,6 +13,8 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Optical Trapping
 uid: 67f35334-98bb-7b1a-b663-008618c3daa2
+video_metadata:
+  youtube_id: null
 ---
 
 Description
@@ -21,4 +29,4 @@ Optical trapping experiment equipment.
 Lab Guide
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e9d7d519-aa1e-aecb-68c4-34ab2af0e60b "Optical Trapping Lab Guide (PDF - 1.7MB)" %}}
+{{% resource_link e9d7d519-aa1e-aecb-68c4-34ab2af0e60b "Optical Trapping Lab Guide (PDF - 1.7MB)" %}}

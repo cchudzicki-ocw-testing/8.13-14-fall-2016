@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Magnetic resonances of protons in various substances are studied by the
+  techniques of polsed NMR and the measurement of spin echoes. Various substances
+  containing protons are placed in a uniform magnetic field and subjected to polses
+  of a transverse 5 MHz magnetic field in near resonance with the Larmor precession
+  frequency of the protons.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes required and recommended texts, other useful texts,
+  reference articles and equipment manuals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -7,6 +9,8 @@ parent_type: CourseSection
 parent_uid: c531b2ff-413e-84c4-11a6-98b6cc116edd
 title: Required and Recommended Texts
 uid: 2fe61734-9df6-5bf3-7a9c-ca6e1b5f4bd9
+video_metadata:
+  youtube_id: null
 ---
 
 Required Readings

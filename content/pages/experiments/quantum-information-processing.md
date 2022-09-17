@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section will let you perform a series of simple quantum computations
+  on a two spin system, demonstrating one and two quantum-bit quantum logic gates,
+  and a circuit implementing the Deutsch-Jozsa quantum algorithm. You will use NMR
+  techniques and manipulate the state of a proton and a carbon nucleus in a chloroform
+  molecule, measuring ensemble nuclear magnetization.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -30,7 +35,7 @@ WARNING: You should know MATLAB® well to successfully do this experiment! You w
 Lab Guide
 ---------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 14eb7de0-68a2-2aef-cea3-95b2d570476b "Quantum Information Processing with NMR Lab Guide (PDF)" %}}
+{{% resource_link 14eb7de0-68a2-2aef-cea3-95b2d570476b "Quantum Information Processing with NMR Lab Guide (PDF)" %}}
 
 References
 ----------
@@ -71,11 +76,11 @@ Chuang, Isaac L., Neil Gershenfeld, and M. Kubinec. "[Experimental Implementatio
 
 Chuang, Isaac L., L. M. K. Vandersypen, X. L. Zhou, D. W. Leung, and S. Lloyd. "[Experimental Realization of a Quantum Algorithm](https://arxiv.org/abs/quant-ph/9801037)." _Nature_ 393, no. 6681 (1998): 143-146.
 
-Gershenfeld, Neil, and Isaac Chuang. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quantum Computing with Molecules (PDF)](http://cba.mit.edu/docs/papers/98.06.sciqc.pdf)." _Scientific American_ (June 1998): 66-73.
+Gershenfeld, Neil, and Isaac Chuang. "[Quantum Computing with Molecules (PDF)](http://cba.mit.edu/docs/papers/98.06.sciqc.pdf)." _Scientific American_ (June 1998): 66-73.
 
 Sodickson, A., and D. G. Cory. "[A Generalized k-space Formalism for Treating the Spatial Aspects of a Variety of NMR Experiments](https://www.sciencedirect.com/science/article/pii/S0079656598000211?via%3Dihub)." _Progress in Nuclear Magnetic Resonance Spectroscopy_ 33 (1998): 77-108.
 
-Price, M., S. Somaroo, C. Tseng, J. Gore, A. Fahmy, T. Havel, and D. Cory. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Construction and Implementation of NMR Quantum Logic Gates for Two Spin System (PDF)](https://www.sciencedirect.com/science/article/pii/S1090780799918517?via%3Dihub)." _Journal of Magnetic Resonance_ 140 (1999): 371-378.
+Price, M., S. Somaroo, C. Tseng, J. Gore, A. Fahmy, T. Havel, and D. Cory. "[Construction and Implementation of NMR Quantum Logic Gates for Two Spin System (PDF)](https://www.sciencedirect.com/science/article/pii/S1090780799918517?via%3Dihub)." _Journal of Magnetic Resonance_ 140 (1999): 371-378.
 
 Cory, D., R. LaFlamme, E. Knill, L. Viola, T. Havel, N. Boulant, G. Boutis, E. Fortunato, S. Lloyd, R. Martinez, C. Negrevergne, M. Pravia, Y. Sharf., G. Teklemariam, Y. Weinstein and W. Zurek. "[NMR Based Quantum Information Processing: Achievements and Prospects](https://arxiv.org/abs/quant-ph/0004104)." _Quantum Physics_ 48 (2000): 875-907.
 

@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'Experiments in relativistic kinematics: the universal speed limit and
+  time dilation. The existence of an absolute limit, c, on the speed of particles
+  is demonstrated by a measurement of the times of flight of cosmic-ray muons between
+  scintillation counters in the laboratory. The mean life of muons at rest is then
+  determined from a measurement of the distribution of radioactive decay times of
+  muons that stop in a large plastic scintillator.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments

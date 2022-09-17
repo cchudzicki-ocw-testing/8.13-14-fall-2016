@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Elastic and inelastic scattering of electrons from atoms. The excitation
+  potential and ionization potential of the mercury atom are determined from measurements
+  of the critical accelerating potentials at which electrons lose energy by inelastic
+  scattering in mercury vapor.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments

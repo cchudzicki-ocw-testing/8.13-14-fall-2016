@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Distributions in numbers of counts for random events at fixed mean counts
+  of approximately 1, 10, and 100 are measured with a scintillation counter exposed
+  to a weak source of gamma rays. The results are compared to the theoretical Poisson
+  distributions for the measuredmeans, and with the results of Monte Carlo simulations
+  of Poisson distributions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -7,6 +12,8 @@ parent_type: CourseSection
 parent_uid: e52e9a2b-7600-071c-81b1-6a6630eb394d
 title: Poisson Statistics
 uid: 75583187-1f13-d728-f8f4-c79b2c45e23d
+video_metadata:
+  youtube_id: null
 ---
 
 Description

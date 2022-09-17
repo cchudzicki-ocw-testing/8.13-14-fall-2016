@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this section Dr. Sean Robinson discusses the course re-design that\
+  \ shifted how instructors and students experience \u201CJunior Lab.\u201D"
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: acfc780e-5759-0f17-e6e5-6b834507e6a2
 title: "Re-Designing \u201CJunior Lab\u201D"
 uid: 30d61f99-17e2-40c5-9220-a191ea9b7ac9
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Dr. Sean Robinson discusses the course re-design that has fundamentally shifted how students experience Junior Lab._
